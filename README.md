@@ -38,34 +38,6 @@ Once a win is detected, all boxes are disabled and the winner is displayed.
 
 Reset or New Game buttons clear the board and start a new match.
 
-🧩 Project Structure
-tic-tac-toe/
-│
-├── index.html      # Game layout and buttons
-├── style.css       # Styling for board, colors, layout
-├── script.js       # Game logic and interactivity
-└── README.md       # Project documentation
-
-🚀 Getting Started
-
-Clone this repository
-
-git clone https://github.com/your-username/tic-tac-toe.git
-
-
-Navigate into the folder
-
-cd tic-tac-toe
-
-
-Open the game
-Simply open index.html in your web browser.
-
-Or, if you have VS Code:
-
-Right-click on index.html
-
-Choose “Open with Live Server” to run it locally.
 
 🖌️ Color Scheme
 Player	Symbol	Color Code	Description
@@ -81,3 +53,4 @@ HTML5 – Structure
 CSS3 – Styling and layout
 
 JavaScript (ES6) – Game logic and interactivity
+
